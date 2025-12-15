@@ -42,7 +42,7 @@ Example:
 
 ## ▶️ How to Run
 
-python student_manager.py
+python main.py
 
 ---
 
